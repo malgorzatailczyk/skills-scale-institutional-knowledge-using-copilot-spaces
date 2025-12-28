@@ -20,8 +20,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (managed by DevOps Engineer)
+- Automated deployment validation in CI/CD pipeline
 - Manual QA for feature acceptance when needed
+- Performance and load testing for critical features
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -35,6 +37,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
+- [ ] CI configured for tests and lint (coordinated with DevOps Engineer)
+- [ ] Deployment pipeline validated and ready
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Design reviews scheduled with UX Designer
+- [ ] Support documentation prepared with Customer Support Lead
