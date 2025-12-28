@@ -131,12 +131,62 @@ After each sprint, release, or milestone, we:
 **Focus**: Validate quality and acceptance criteria
 
 **Key Responsibilities**:
+- Design test strategies and test plans
+- Write and maintain automated and manual test cases
 - Validate features against acceptance criteria
 - Execute test plans (unit, integration, end-to-end)
 - Identify and document defects
 - Verify fixes and regression testing
 
 **Communication**: Test reports, bug tickets, quality metrics
+
+### UX Designer
+**Focus**: Design user interfaces and ensure usability standards
+
+**Key Responsibilities**:
+- Conduct user research and usability testing
+- Create wireframes, mockups, and interactive prototypes
+- Design user interfaces meeting accessibility standards
+- Collaborate with Product Managers on translating requirements into designs
+- Work with Developers to ensure design implementation fidelity
+
+**Communication**: Design reviews, prototypes, user research findings
+
+### Business Analyst
+**Focus**: Gather requirements and ensure business-technical alignment
+
+**Key Responsibilities**:
+- Elicit and document business requirements
+- Analyze stakeholder needs and business processes
+- Facilitate requirements workshops and user story mapping
+- Create functional specifications and process flows
+- Validate that solutions meet business objectives
+
+**Communication**: Requirements docs, user stories, stakeholder workshops
+
+### DevOps Engineer
+**Focus**: Manage CI/CD pipelines, infrastructure, and site reliability
+
+**Key Responsibilities**:
+- Build and maintain CI/CD pipelines
+- Manage infrastructure as code and automation
+- Implement deployment strategies
+- Monitor system performance and reliability
+- Coordinate release deployments and incident response
+
+**Communication**: Deployment notifications, infrastructure docs, incident reports
+
+### Customer Support Lead
+**Focus**: Manage customer feedback and support escalations
+
+**Key Responsibilities**:
+- Manage customer support team and escalations
+- Collect and analyze customer feedback
+- Identify patterns in customer issues
+- Coordinate with Product and QA teams on bug reports
+- Ensure customer feedback loops into retrospectives
+
+**Communication**: Support metrics, customer feedback summaries, escalations
 
 ### Stakeholders
 **Focus**: Provide inputs, approvals, and strategic guidance

@@ -14,14 +14,17 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Customer Support Lead briefed on release changes and prepared support documentation
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] Customer Support Lead notified of deployment schedule
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
-- [ ] Announce release to stakeholders and support
+- [ ] Announce release to stakeholders and support team
+- [ ] Customer Support Lead confirms support documentation is updated
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
