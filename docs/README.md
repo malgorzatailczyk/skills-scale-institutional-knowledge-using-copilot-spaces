@@ -155,8 +155,7 @@ After each sprint, release, or milestone, we:
 
 ### Regular Communication Cadence
 
-- **Daily standups** (15 min): Team progress, blockers, dependencies
-- **Twice-weekly standups**: For delivery teams (or as agreed)
+- **Daily standups** (15 min): Team progress, blockers, dependencies (or twice-weekly as agreed with the team)
 - **Weekly PM + PdM sync**: Alignment on priorities and risks
 - **Weekly delivery sync**: Progress demos, risk flagging
 - **Monthly stakeholder updates**: High-level progress and metrics
